@@ -4,6 +4,20 @@
   - fewer stars (200) but seems more up-to-date
 - https://github.com/valentin-vogel/awesome-nocode-lowcode
 
+# courses
+
+- https://www.udemy.com/course/no-code-developer
+  - 7000 students, 680 ratings
+  - 23 projects: webflow, zapier, figma, parabola, obviously.ai,
+- https://www.udemy.com/course/buildastartup/
+  - 4000 students, 1000 ratings
+  - only bubble, but frontend, backend, database, API, ...
+- https://www.udemy.com/course/no-code-automation/
+  - 1500 students, 100 ratings
+  - webscraper, airtable, zapier, phantombuster (marketing)
+- https://nocodeacad.com/courses/
+  - courses for particular apps
+
 # some relevant articles
 
 - https://medium.com/wearenocode/no-code-tools-repository-a8f6ed6b2b0
@@ -52,17 +66,3 @@
   - midjourney, DALL-E, craiyon.com (free), stable diffusion
 - APIs
   - Parabola
-
-Courses
-
-- https://www.udemy.com/course/no-code-developer
-  - 7000 students, 680 ratings
-  - 23 projects: webflow, zapier, figma, parabola, obviously.ai,
-- https://www.udemy.com/course/buildastartup/
-  - 4000 students, 1000 ratings
-  - only bubble, but frontend, backend, database, API, ...
-- https://www.udemy.com/course/no-code-automation/
-  - 1500 students, 100 ratings
-  - webscraper, airtable, zapier, phantombuster (marketing)
-- https://nocodeacad.com/courses/
-  - courses for particular apps
